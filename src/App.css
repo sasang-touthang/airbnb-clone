@@ -1,0 +1,9 @@
+.section_padding {
+  padding: 0 4.8rem;
+}
+
+@media only screen and (max-width: 1200px) {
+  .section_padding {
+    padding: 0 1.5rem;
+  }
+}
