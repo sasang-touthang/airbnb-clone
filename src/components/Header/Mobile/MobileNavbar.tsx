@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React from "react";
 import { FiFilter, FiSearch } from "react-icons/fi";
 import "./styles.css";

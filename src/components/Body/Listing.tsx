@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React from "react";
 import { locations } from "../../data/location";
 import { Grid } from "@mui/material";

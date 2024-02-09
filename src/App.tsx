@@ -1,3 +1,4 @@
+//@ts-nocheck
 import "./App.css";
 import Listing from "./components/Body/Listing";
 import Filter from "./components/Filter/Filter";

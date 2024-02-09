@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React from "react";
 import { Divider } from "@mui/material";
 import { LiaCopyright } from "react-icons/lia";

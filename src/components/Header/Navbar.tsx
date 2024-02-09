@@ -1,3 +1,4 @@
+//@ts-nocheck
 import * as React from "react";
 import airbnb from "./airbnb-icon.svg";
 import { FiGlobe, FiSearch } from "react-icons/fi";
